@@ -1,0 +1,57 @@
+body{
+	background-color:#6495ED; /*Cornflower*/
+}
+
+h1{
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+
+h2{
+	text-align: center;
+	color: red;
+}
+
+#success{
+	color: green;
+}
+
+.home {
+	margin:0 auto;
+	background-color: #40A860; 
+	color: black; 
+	border: 5px solid green;
+	font-size: 16px;
+	padding: 8px 16px;
+	text-align: center;
+	cursor: pointer;
+	width: 150px;
+	display: block;
+	border-radius: 15px 15px 15px 15px;
+}
+
+.home:hover {
+	background-color: green;
+	color: white;
+	
+}
+
+.back {
+	margin:0 auto;
+	background-color: #F9C24E; 
+	color: black; 
+	border: 5px solid orange;
+	font-size: 16px;
+	padding: 8px 16px;
+	text-align: center;
+	cursor: pointer;
+	width: 150px;
+	display: block;
+	border-radius: 15px 15px 15px 15px;
+}
+
+.back:hover {
+	  background-color: orange;
+	  color: white;
+}
